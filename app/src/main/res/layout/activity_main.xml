@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:background="@color/black"
+        android:background="@color/white"
         android:id="@+id/rv_testing"
         tools:listitem="@layout/items"
         android:layout_width="match_parent"
